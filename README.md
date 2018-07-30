@@ -1,3 +1,5 @@
 # hello-world
-This is my first github repository
-I am new to open source
+
+Hi fellow developers!
+
+I am Shivam. This is my first open source project.
